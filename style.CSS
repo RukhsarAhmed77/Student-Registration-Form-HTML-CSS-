@@ -1,0 +1,15 @@
+body{
+    border: solid white ;
+    margin: 0;
+    color: white;
+}
+
+fieldset{
+    background-color: rgb(96, 182, 204);
+    #no{
+        color: black;
+        font-size: 50px;
+        class: white
+    }
+    border: 2px solid black;
+}
